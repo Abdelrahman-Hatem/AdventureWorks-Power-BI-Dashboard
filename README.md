@@ -7,6 +7,10 @@
 ## Introduction
 Welcome to the AdventureWorks Power BI Dashboard project! AdventureWorks is a sample database published by Microsoft to demonstrate SQL Server database design. In this project, we have created a Power BI dashboard that provides insights and analytics based on the AdventureWorks database.
 
+## Tools Used:
+#### - Power BI was employed for data visualization and analysis due to its capability to handle large datasets and create interactive reports.
+#### - Figma: Utilized for designing and prototyping dashboard layouts and user interface elements.
+
 ## Dashboard Features
 Our Power BI dashboard offers various features and visualizations to help you explore and understand the AdventureWorks database:
 
